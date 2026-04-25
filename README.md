@@ -32,3 +32,6 @@ x = (-b ± √Δ) / (2a)
 - Java 
 - IDE: NetBeans 
 
+## 👨‍💻 Autor
+
+Desenvolvido por **Vitor De Oliveira Franco**
